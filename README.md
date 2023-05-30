@@ -1,4 +1,12 @@
 # Ex-07-Feature-Selection
+
+DATE:
+
+GITHUB LINK: https://github.com/saran7d/Ex-07-Feature-Selection.git
+
+COLAB LINK: https://colab.research.google.com/drive/1KPArbiK9SyPrB5mGzwNuncUf114xDUB1?usp=sharing
+
+
 ## AIM
 
 To Perform the various feature selection techniques on a dataset and save the data to a file.
